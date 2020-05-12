@@ -1,3 +1,3 @@
 # Proyecto
 
-https://carrageblog.github.io/Blog/
+https://blogamazonas.github.io/Amazonas/
