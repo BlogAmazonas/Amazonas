@@ -47,7 +47,7 @@ p
     position: relative;
     width: 100%;
     height: 100vh;
-    background-image: url("https://live.staticflickr.com/65535/48737220543_5bc6a8a482_b.jpg") ; 		
+    background-image: url("https://presenterse.com/wp-content/uploads/2019/08/amazona.jpg") ; 		
     background-repeat:no-repeat;
     background-size: cover;
     margin-bottom: 0;
@@ -254,7 +254,7 @@ section_2
 {
     position: relative;
     padding: 100px 0;
-    background-image: url("https://www.tendencias21.net/photo/art/grande/37613556-33150402.jpg?v=1569409914");  
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/f/f9/Amazon_CIAT_%283%29.jpg");  
     background-size: cover;
     min-height: 100vh;
 }
